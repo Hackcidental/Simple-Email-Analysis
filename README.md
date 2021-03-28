@@ -20,6 +20,7 @@ WORD IN PROGRESS
 ## About the project
 
 This guide aims to simplify the steps to analize a suspicious email.
+
 In the future I'd like to create a script from this steps to automate the whole process.
 
 ## Roadmap
